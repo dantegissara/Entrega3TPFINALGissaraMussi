@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SnoopMG</string>
+    <string name="titulo">Menu</string>
+    <string name="string_boton_skins">Listado De Razas</string>
+    <string name="string_boton_sesion">Cerrar Sesion</string>
+    <string name="sp_credenciales">SP_CREDENCIALES</string>
+    <string name="Nombre_usuario">NOMBRE</string>
+    <string name="password_usuario">PASSWORD</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

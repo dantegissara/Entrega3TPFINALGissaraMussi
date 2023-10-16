@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true">
+        <shape>
+            <solid android:color="#E0E0E0" /> <!-- Color de fondo cuando está enfocado -->
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@android:color/transparent" />
+            <stroke android:color="@color/grisOscuro" android:width="2dp" /> <!-- Borde inferior constante -->
+        </shape>
+    </item>
+</selector>
